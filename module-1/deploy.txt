@@ -1,0 +1,1 @@
+snow git execute @advanced_data_engineering_snowflake/branches/mqin/module-1/hamburg_weather/pipeline/data/load_tasty_bytes.sql -D "env='STAGING'" --database=COURSE_REPO --schema=PUBLIC
